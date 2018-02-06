@@ -97,5 +97,9 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Useful desktop apps
+brew cask install iterm2
+brew cask install dropbox
+
 # Remove outdated versions from the cellar.
 brew cleanup
